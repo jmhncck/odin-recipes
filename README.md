@@ -1,0 +1,1 @@
+Set up new GitHub repository for this project. Built initial structure of HTML boilerplate. Created homepage with recipe titles, pictures, and links to specific recipes. Created separate recipe pages and linked relative image from home page. 
