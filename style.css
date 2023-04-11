@@ -1,0 +1,19 @@
+body {
+    font-family: "Franklin Gothic Medium", "DejaVu Sans", sans-serif;
+    text-align: center;
+    background-color: bisque;
+}
+
+.banner {
+    background-color: aliceblue;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+li {
+    font-size: 20px;
+    list-style-type: none;
+}
